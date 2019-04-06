@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3A45DD1B-7A5C-4907-840D-650832719C61}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PShared/HttpClientDownloadWithProgress.cs">
+    <Files>
+      <File FileName="PShared/HttpClientDownloadWithProgress.cs" Line="58" Column="37" />
+      <File FileName="Progress/DownloadManger.cs" Line="24" Column="1" />
+      <File FileName="Progress/ViewController.cs" Line="21" Column="33" />
+      <File FileName="PShared/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Progress" expanded="True">
+            <Node name="Progress" expanded="True" />
+            <Node name="PShared" expanded="True">
+              <Node name="HttpClientDownloadWithProgress.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Progress automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.23F162C6-B522-42E6-8F20-241BBE41C632" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

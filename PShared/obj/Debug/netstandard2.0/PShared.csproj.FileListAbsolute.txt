@@ -1,0 +1,9 @@
+/Users/rishabdutta/Projects/Progress/PShared/bin/Debug/netstandard2.0/PShared.deps.json
+/Users/rishabdutta/Projects/Progress/PShared/bin/Debug/netstandard2.0/PShared.dll
+/Users/rishabdutta/Projects/Progress/PShared/bin/Debug/netstandard2.0/PShared.pdb
+/Users/rishabdutta/Projects/Progress/PShared/obj/Debug/netstandard2.0/PShared.csproj.CoreCompileInputs.cache
+/Users/rishabdutta/Projects/Progress/PShared/obj/Debug/netstandard2.0/PShared.AssemblyInfoInputs.cache
+/Users/rishabdutta/Projects/Progress/PShared/obj/Debug/netstandard2.0/PShared.AssemblyInfo.cs
+/Users/rishabdutta/Projects/Progress/PShared/obj/Debug/netstandard2.0/PShared.dll
+/Users/rishabdutta/Projects/Progress/PShared/obj/Debug/netstandard2.0/PShared.pdb
+/Users/rishabdutta/Projects/Progress/PShared/obj/Debug/netstandard2.0/PShared.csprojAssemblyReference.cache
